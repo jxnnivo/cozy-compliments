@@ -34,9 +34,10 @@ button:hover {
     background-color: #f09aa9;
 }
 
-#complimenttext {
+#complimentText {
     font-size: 1.2rem;
     color: #574343;
     opacity: 0;
     transition: opacity 0.6s ease;
 }
+
