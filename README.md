@@ -31,7 +31,7 @@ Designed as a small frontend project to practice DOM manipulation, event-driven 
 
 1. Clone the repository
 2. Open `index.html` in your browser
-3. Click the button to receive a compliment ✨
+3. Click the button to receive a compliment
 
 No build tools or dependencies required.
 
